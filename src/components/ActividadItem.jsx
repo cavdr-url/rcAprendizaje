@@ -64,7 +64,7 @@ export default function ActividadItem() {
             <p>{campos.Descripcion}</p>
 
             <small>
-              Duración: {campos.Duracion} minutos
+              Duración: {campos.Tiempo} minutos
             </small>
           </motion.div>
         );
